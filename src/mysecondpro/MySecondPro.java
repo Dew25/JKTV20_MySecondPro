@@ -17,6 +17,7 @@ public class MySecondPro {
     public static void main(String[] args) {
         System.out.println("Моя вторая программа");
         System.out.println("Первое изменение файла");
+        System.out.println("Второе изменение файла");
     }
     
 }
